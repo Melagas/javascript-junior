@@ -1,3 +1,5 @@
+//VARIABLES (LET, CONST, VAR)
+
 //let numero;
 //numero = 2;
 
@@ -96,6 +98,8 @@
 //}
 
 //if es uno, else if todos los que querramos y else uno solo al final.
+
+
 
 
 
